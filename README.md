@@ -68,3 +68,6 @@ streamlit run app.py
 ## License
 This project is open-source and available under the MIT License.
 
+## Live Application
+Link-https://student-performance-prediction-saaho-shanjai.streamlit.app
+
